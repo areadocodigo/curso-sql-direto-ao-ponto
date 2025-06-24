@@ -31,6 +31,7 @@ O curso **SQL direto ao ponto** foi criado para quem quer aprender a linguagem S
 ## 🔗 Links Úteis
 - [Live de Docker](https://www.youtube.com/watch?v=5Mce1aVEeE4&list=PL5X822QTM1JZl1TpIBW_QBw5HC19xksS9&index=2&ab_channel=%C3%81readoC%C3%B3digo) (Live de 2 dias de Introdução ao Docker)
 - [Curso de PHP grátis](https://www.youtube.com/watch?v=Sr5Qk_qJ6wY&list=PL5X822QTM1JY8_D3G1diTxLZbKoJ-H-K1&ab_channel=%C3%81readoC%C3%B3digo) (Curso de férias de PHP 8 e MySQL)
+- [Área do Código no Discord](https://discord.gg/SnJ94Rq2Gv) (Servidor da Área do Código no Discord)
 
 ## 🐳 Rodando um banco MySQL com Docker (Opcional)
 
@@ -47,5 +48,3 @@ docker run --name mysql-dev \
 
 # Executar o container
 docker exec -it mysql-dev mysql -upaulo -p
-
-
